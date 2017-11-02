@@ -1,5 +1,7 @@
 # Creative Commons Licenses in Markdown
 
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
 These are some creative commons license files in markdown to add to your projects. It's been forked from @idleberg's [Creative-Commons-Markdown repo](https://github.com/idleberg/Creative-Commons-Markdown). 
 
 
