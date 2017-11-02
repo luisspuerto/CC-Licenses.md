@@ -1,25 +1,10 @@
 # Creative Commons Licenses in Markdown
 
-These are some creative commons license files in markdown to add to your projects. It's been forked from [@idleberg](https://github.com/idleberg)'s [Creative-Commons-Markdown repo](https://github.com/idleberg/Creative-Commons-Markdown). 
+These are some creative commons license files in markdown to add to your projects. They're forked from [@idleberg](https://github.com/idleberg)'s [Creative-Commons-Markdown repo](https://github.com/idleberg/Creative-Commons-Markdown). 
 
-- [ ] Do the to dos work here? 
+Following is the original readme file form [@idleberg](https://github.com/idleberg). I use this repo for personal purposes. 
 
-1. alkjfa
-2. afklja
-3. aflkja
-	- klajfa
-		5. kajhkahf	
-			6. kajfa
-
-- [ ] kljlajkfa
-- 
-
-(2) A list
-
- 
-alfjkafl
-
-(@) A list
+I've just changed the extensions of the files for the sake of conformity with my other files. 
 
 ---
 
@@ -27,15 +12,17 @@ On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announce
 
 ## Licenses
 
-* `BY` – [Attribution](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by.markdown)
-* `BY-NC` – [Attribution-NonCommercial](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc.markdown)
-* `BY-NC-ND` – [Attribution-NonCommercial-NoDerivatives](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-nd.markdown)
-* `BY-NC-SA` – [Attribution-NonCommercial-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-sa.markdown)
-* `BY-ND` – [Attribution-NoDerivatives](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nd.markdown)
-* `BY-SA` – [Attribution-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-sa.markdown)
-* `CC0` – [CC0](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/zero.markdown)
+* `BY` – [Attribution](https://github.com/luisspuerto/CC-Licences.mdblob/master/4.0/by.md)
+* `BY-NC` – [Attribution-NonCommercial](https://github.com/luisspuerto/CC-Licences.mdblob/master/4.0/by-nc.md)
+* `BY-NC-ND` – [Attribution-NonCommercial-NoDerivatives](https://github.com/luisspuerto/CC-Licences.mdblob/master/4.0/by-nc-nd.md)
+* `BY-NC-SA` – [Attribution-NonCommercial-ShareAlike](https://github.com/luisspuerto/CC-Licences.mdblob/master/4.0/by-nc-sa.md)
+* `BY-ND` – [Attribution-NoDerivatives](https://github.com/luisspuerto/CC-Licences.mdblob/master/4.0/by-nd.md)
+* `BY-SA` – [Attribution-ShareAlike](https://github.com/luisspuerto/CC-Licences.mdblob/master/4.0/by-sa.md)
+* `CC0` – [CC0](https://github.com/luisspuerto/CC-Licences.mdblob/master/4.0/zero.md)
 
 ## File extension
+
+\* ***As I've mentioned before I've decided to change the extensions to `.md` again, so this section doesn't have much sense here but for the sake of knowing why they decided to use the full word as extension***. 
 
 There's a plethora of Markdown file extensions, but I have decided to go with `markdown`. Read why:
 
@@ -66,7 +53,3 @@ $ bower install cc-md
 ## Contribute
 
 If you notice any mistakes in content or formatting, please send a pull request with your correction.
-
-## Coffee Tip
-
-I love a good cup of coffee, it's what drives me. Tip me via [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Creative-Commons-Markdown) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`.
