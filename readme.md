@@ -1,9 +1,6 @@
-# Creative Commons Markdown
+# Creative Commons Licenses in Markdown
 
-[![GitHub](https://img.shields.io/github/forks/idleberg/Creative-Commons-Markdown.svg?style=flat-square)](https://github.com/idleberg/Creative-Commons-Markdown/network)
-[![GitHub](https://img.shields.io/github/release/idleberg/Creative-Commons-Markdown.svg?style=flat-square)](https://github.com/idleberg/Creative-Commons-Markdown/releases)
-[![npm](https://img.shields.io/npm/v/cc-md.svg?style=flat-square)](https://www.npmjs.org/package/cc-md)
-[![Bower](https://img.shields.io/bower/v/cc-md.svg?style=flat-square)]()
+These are some creative commons license files in markdown to add to your projects. It's been forked from @idleberg's [Creative-Commons-Markdown repo](https://github.com/idleberg/Creative-Commons-Markdown). 
 
 
 On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announced their next generation licenses: [Creative Commons 4.0](https://creativecommons.org/weblog/entry/40768). By default, these are available as [HTML](http://creativecommons.org/licenses/) or [plaintext](http://creativecommons.org/weblog/entry/41127). This project adds [Markdown](http://daringfireball.net/projects/markdown/)-formatted licenses to that list, while aiming for best [compatibility on GitHub](https://github.github.com/gfm/).
