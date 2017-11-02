@@ -1,9 +1,27 @@
 # Creative Commons Licenses in Markdown
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+These are some creative commons license files in markdown to add to your projects. It's been forked from [@idleberg](https://github.com/idleberg)'s [Creative-Commons-Markdown repo](https://github.com/idleberg/Creative-Commons-Markdown). 
 
-These are some creative commons license files in markdown to add to your projects. It's been forked from @idleberg's [Creative-Commons-Markdown repo](https://github.com/idleberg/Creative-Commons-Markdown). 
+- [ ] Do the to dos work here? 
 
+1. alkjfa
+2. afklja
+3. aflkja
+	- klajfa
+		5. kajhkahf	
+			6. kajfa
+
+- [ ] kljlajkfa
+- 
+
+(2) A list
+
+ 
+alfjkafl
+
+(@) A list
+
+---
 
 On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announced their next generation licenses: [Creative Commons 4.0](https://creativecommons.org/weblog/entry/40768). By default, these are available as [HTML](http://creativecommons.org/licenses/) or [plaintext](http://creativecommons.org/weblog/entry/41127). This project adds [Markdown](http://daringfireball.net/projects/markdown/)-formatted licenses to that list, while aiming for best [compatibility on GitHub](https://github.github.com/gfm/).
 
